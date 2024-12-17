@@ -1,1 +1,4 @@
 .DS_Store
+
+
+GET https://api.github.com/repos/ubaidbutt/my-blogs/contents/blogs
