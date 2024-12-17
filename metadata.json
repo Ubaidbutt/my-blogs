@@ -2,6 +2,7 @@
     {
         "id": "1",
         "name": "The purpose of this platform",
+        "url_title": "the-purpose-of-the-blog",
         "tags": ["generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/the-purpose-of-the-blog.md",
         "created_date": "04-05-2024"
@@ -9,6 +10,7 @@
     {
         "id": "2",
         "name": "Should you work on migration projects as a software engineer? Are they rewarding or a waste of your time and skills?",
+        "url_title": "working-on-migration-projects",
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/migration-projects.md",
         "created_date": "05-05-2024"
@@ -16,6 +18,7 @@
     {
         "id": "3",
         "name": "What makes a software engineer great?",
+        "url_title": "what-makes-great-software-engineer",
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/great-software-engineers.md",
         "created_date": "08-05-2024"
