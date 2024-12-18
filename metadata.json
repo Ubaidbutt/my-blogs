@@ -44,7 +44,6 @@
         "name": "Understanding Islam",
         "url_title": "understanding-islam",
         "tags": ["religion", "personal"],
-        "thumbnail": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/understanding-islam.jpg",
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/understanding-islam.md",
         "created_date": "2024-06-02"
     },
@@ -79,5 +78,29 @@
         "tags": ["technology", "professional"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/aws-cloud-practitioner-certification.md",
         "created_date": "2024-12-12"
+    },
+    {
+        "id": "11",
+        "name": "My perspective on Shia-Sunni conflict in Islam",
+        "url_title": "shia-sunni-conflict-in-islam",
+        "tags": ["religion", "personal"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/shia-sunni-conflict.md",
+        "created_date": "2024-11-28"
+    },
+    {
+        "id": "12",
+        "name": "The why behind my goodbyes: Honest reasons behind my career changes",
+        "url_title": "job-changes-in-career",
+        "tags": ["professional", "career"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/job-changes-in-career.md",
+        "created_date": "2024-11-15"
+    },
+    {
+        "id": "13",
+        "name": "Moving out of Pakistan: Beware of the work visa scam",
+        "url_title": "beware-of-work-visa-scams",
+        "tags": ["personal", "generic"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/beware-of-work-visa-scams.md",
+        "created_date": "2024-07-17"
     }
 ]

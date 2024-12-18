@@ -22,7 +22,7 @@ Would you not use your influence in police or FIA to get your brother out of tro
 The political and military establishment that you hear in the news does the same thing but on a higher level with many complications and a lot more consequences for us as the general public and the country as a whole.
 
 
-If you understand the establishment, how would you reduce its influence?
+Now that you may understand what establishment is, how would you reduce its influence? In my humble opinion, there are two steps that you need in order to fix the system.
 
 Firstly, we need to fix our bureaucratic system to make it automated, centralized, and transparent, such that there is no room to hijack it even if one desires to do so. Consider how to design a police system in a way where a police officer cannot act outside of the established processes, even if they wish to. How can we reform our judicial system to make it so transparent that it becomes impossible for lawyers, judges, and everyone in between to engage in corruption? The system should be structured to compel people to abide by the rules and the law.
 
