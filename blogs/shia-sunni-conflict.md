@@ -48,7 +48,7 @@ A group within Hazrat Ali’s followers strongly opposed the arbitration, deemin
 
 While Hazrat Ali emerged victorious in these battles, the ongoing civil unrest and internal strife weakened his position, allowing Hazrat Muawiyah to consolidate his power in Syria and strengthen his claim to leadership.
 
-After ruling for approximately 4 years and 9 months, Hazrat Ali was assassinated by a member of the Khawarij while leading prayers in a mosque in Kufa. The death of Hazrat Ali was likely the final nail in the coffin of an already deteriorating relationship between Shia and Sunni, further deepening the divide between the two sects.
+After ruling for approximately 4 years and 9 months, Hazrat Ali was assassinated by a member of the Khawarij while leading prayers in a mosque in Kufa. The death of Hazrat Ali was likely the final nail in the coffin of an already deteriorating relationship between the two groups, further deepening the divide between them.
 
 After the death of Hazrat Ali, his eldest son, Hazrat Hasan, briefly became the Caliph for about six months amidst ongoing civil unrest and conflict with Hazrat Muawiyah. To prevent further bloodshed, Hazrat Hasan negotiated a peace treaty with Hazrat Muawiyah under specific conditions and formally pledged allegiance to him, making Hazrat Muawiyah the Caliph. However, traditionally, only the first four Caliphs are regarded as the Rashidun Caliphs (Rightly Guided Caliphs), while Hazrat Muawiyah’s rule marked the beginning of the Umayyad Caliphate, which later introduced a dynastic system of leadership.
 
