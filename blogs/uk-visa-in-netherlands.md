@@ -11,7 +11,7 @@ Go to this [website link](https://www.gov.uk/standard-visitor/apply-standard-vis
 ### Fill out the application form
 The application form involves filling in a lot of information, such as your name, passport number, addresses (for the last 2 years), travel history, your parents' information, and more. Just provide all the information to the best of your ability.
 
-### Pay the fee Download the checklist document and 
+### Pay the fee and download the checklist document 
 At the last step, download the documents checklist that you need to provide later, verify that you have provided all the information correctly, and submit the application. You will need to pay the visa fee of around 115 pounds (for a 6-month visa) at the time of writing this article.
 
 This complete the first step in the two step process I mentioned at the start.
