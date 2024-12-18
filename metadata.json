@@ -5,7 +5,8 @@
         "url_title": "the-purpose-of-the-blog",
         "tags": ["generic", "personal"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/the-purpose-of-the-blog.md",
-        "created_date": "2024-05-04"
+        "created_date": "2024-05-04",
+        "category": "personal"
     },
     {
         "id": "2",
@@ -13,7 +14,8 @@
         "url_title": "working-on-migration-projects",
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/migration-projects.md",
-        "created_date": "2024-05-05"
+        "created_date": "2024-05-05",
+        "category": "professional"
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "url_title": "what-makes-great-software-engineer",
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/great-software-engineers.md",
-        "created_date": "2024-05-08"
+        "created_date": "2024-05-08",
+        "category": "professional"
     },
     {
         "id": "4",
@@ -29,7 +32,8 @@
         "url_title": "coping-with-failures",
         "tags": ["personal", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/how-i-cope-with-failures.md",
-        "created_date": "2024-05-15"
+        "created_date": "2024-05-15",
+        "category": "personal"
     },
     {
         "id": "5",
@@ -37,7 +41,8 @@
         "url_title": "understanding-establishment-in-pakistan",
         "tags": ["politics", "pakistan"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/what-is-establishment-in-pakistan.md",
-        "created_date": "2024-05-28"
+        "created_date": "2024-05-28",
+        "category": "politics"
     },
     {
         "id": "6",
@@ -45,7 +50,8 @@
         "url_title": "understanding-islam",
         "tags": ["religion", "personal"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/understanding-islam.md",
-        "created_date": "2024-06-02"
+        "created_date": "2024-06-02",
+        "category": "religion"
     },
     {
         "id": "7",
@@ -53,7 +59,8 @@
         "url_title": "marriage-and-twitter-rants",
         "tags": ["social", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/marriage-and-twitter-rants.md",
-        "created_date": "2024-06-15"
+        "created_date": "2024-06-15",
+        "category": "rants"
     },
     {
         "id": "8",
@@ -61,7 +68,8 @@
         "url_title": "work-culture-pakistan-netherlands",
         "tags": ["personal", "experience"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/work-culture-pakistan-netherlands.md",
-        "created_date": "2024-07-13"
+        "created_date": "2024-07-13",
+        "category": "opinions"
     },
     {
         "id": "9",
@@ -69,7 +77,8 @@
         "url_title": "pti-protest-in-d-chowk",
         "tags": ["politics", "pakistan"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/pti-protest-in-d-chowk.md",
-        "created_date": "2024-11-28"
+        "created_date": "2024-11-28",
+        "category": "politics"
     },
     {
         "id": "10",
@@ -77,7 +86,8 @@
         "url_title": "aws-cloud-practitioner-certification.md",
         "tags": ["technology", "professional"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/aws-cloud-practitioner-certification.md",
-        "created_date": "2024-12-12"
+        "created_date": "2024-12-12",
+        "category": "professional"
     },
     {
         "id": "11",
@@ -85,7 +95,8 @@
         "url_title": "shia-sunni-conflict-in-islam",
         "tags": ["religion", "personal"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/shia-sunni-conflict.md",
-        "created_date": "2024-11-28"
+        "created_date": "2024-11-28",
+        "category": "religion"
     },
     {
         "id": "12",
@@ -93,7 +104,8 @@
         "url_title": "job-changes-in-career",
         "tags": ["professional", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/job-changes-in-career.md",
-        "created_date": "2024-11-15"
+        "created_date": "2024-11-15",
+        "category": "professional"
     },
     {
         "id": "13",
@@ -101,7 +113,8 @@
         "url_title": "beware-of-work-visa-scams",
         "tags": ["personal", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/beware-of-work-visa-scams.md",
-        "created_date": "2024-07-17"
+        "created_date": "2024-07-17",
+        "category": "Advise"
     },
     {
         "id": "14",
@@ -109,7 +122,8 @@
         "url_title": "uk-visa-in-netherlands",
         "tags": ["generic", "experience"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/uk-visa-in-netherlands.md",
-        "created_date": "2024-06-27"
+        "created_date": "2024-06-27",
+        "category": "knowledge"
     },
     {
         "id": "15",
@@ -117,6 +131,7 @@
         "url_title": "professional-journey-01",
         "tags": ["personal", "experience"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/professional-journey-01.md",
-        "created_date": "2024-06-27"
+        "created_date": "2024-06-27",
+        "category": "personal"
     }
 ]
