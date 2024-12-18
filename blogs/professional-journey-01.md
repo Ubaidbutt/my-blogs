@@ -44,4 +44,4 @@ When I declined the offer from PAF, a very close friend of mine got that job, an
 
 The next few years in the company were excellent in terms of financial stability and learning opportunities. I managed to support my family, increase my salary rapidly, and, most significantly, acquire experience working in a service-oriented company with diverse clients on cutting-edge technology stacks related to AI and IoT. This experience later helped me make the next big move in my career.
 
-![team-photo](/images/team-photo-first-job.jpeg)
+![team-photo](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/team-photo-first-job.jpeg)
