@@ -3,7 +3,7 @@
         "id": "1",
         "name": "The purpose of this platform",
         "url_title": "the-purpose-of-the-blog",
-        "tags": ["generic"],
+        "tags": ["generic", "personal"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/the-purpose-of-the-blog.md",
         "created_date": "05-04-2024"
     },
@@ -40,11 +40,43 @@
         "created_date": "05-28-2024"
     },
     {
-        "id": "5",
+        "id": "6",
         "name": "Understanding Islam",
         "url_title": "understanding-islam",
-        "tags": ["politics", "pakistan"],
+        "tags": ["religion", "personal"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/understanding-islam.md",
         "created_date": "06-02-2024"
+    },
+    {
+        "id": "7",
+        "name": "Sharing my marriage musings because Twitter fights are exhausting",
+        "url_title": "marriage-and-twitter-rants",
+        "tags": ["social", "generic"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/marriage-and-twitter-rants.md",
+        "created_date": "06-15-2024"
+    },
+    {
+        "id": "8",
+        "name": "Workplace Worlds Apart: Netherlands vs. Pakistan",
+        "url_title": "work-culture-pakistan-netherlands",
+        "tags": ["personal", "experience"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/work-culture-pakistan-netherlands.md",
+        "created_date": "07-13-2024"
+    },
+    {
+        "id": "9",
+        "name": "PTI protest: Hope for a revolution vs state brutality",
+        "url_title": "pti-protest-in-d-chowk",
+        "tags": ["politics", "pakistan"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/pti-protest-in-d-chowk.md",
+        "created_date": "11-28-2024"
+    },
+    {
+        "id": "10",
+        "name": "https://ubaidrbutt.com/aws-cloud-practitioner-certification/",
+        "url_title": "aws-cloud-practitioner-certification.md",
+        "tags": ["technology", "professional"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/aws-cloud-practitioner-certification.md",
+        "created_date": "12-12-2024"
     }
 ]
