@@ -22,5 +22,29 @@
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/great-software-engineers.md",
         "created_date": "08-05-2024"
+    },
+    {
+        "id": "4",
+        "name": "Coping with failures",
+        "url_title": "coping-with-failures",
+        "tags": ["personal", "generic"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/how--i-cope-with-failures.md",
+        "created_date": "15-05-2024"
+    },
+    {
+        "id": "5",
+        "name": "Understanding establishment in Pakistan",
+        "url_title": "understanding-establishment-in-pakistan",
+        "tags": ["politics", "pakistan"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/what-is-establishment-in-pakistan.md",
+        "created_date": "28-05-2024"
+    },
+    {
+        "id": "5",
+        "name": "Understanding Islam",
+        "url_title": "understanding-islam",
+        "tags": ["politics", "pakistan"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/understanding-islam.md",
+        "created_date": "28-05-2024"
     }
 ]
