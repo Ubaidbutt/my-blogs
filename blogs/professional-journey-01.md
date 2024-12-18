@@ -1,4 +1,4 @@
-<h2 style="text-align: left;">Dreams and struggles</h2>
+# Dreams and struggles
 I was born and raised in a lower-class family in a small town in Sialkot and spent the first 17 years of my life there, attending public schools and later a private college on a merit-based scholarship. Our household was managed by our mother, who did various odd jobs to make just enough to put food on the table. The idea of going to another city for higher education was a foreign concept given our circumstances and resources, but I dared to dream primarily because I was tired of family conflicts and wanted to escape.
 
 I started applying to universities and eventually got admitted to one of the top-ranked universities in the capital city, Islamabad. Then came the hard part: How would we manage the fee for the first semester? Even though it wasn’t a huge amount (70k PKR), at that time, for my mother, it was an enormous challenge. I am sure she didn’t even earn 70k in an entire year, so it was a daunting task and something she would have to manage every semester (6 months) for the next four years.
@@ -12,12 +12,10 @@ The expectations were high back home because, according to them, when someone gr
 I had been staying in the capital city, Islamabad, for the past four years, and it had a pretty good IT industry. I also had my friends around and was comfortable in the city, so I started applying for jobs. My goal was to find a job here, and I had no intentions of moving to other big cities. The job search was the most difficult phase of my life. I remember sending messages on LinkedIn, sending CVs, applying on job portals like Rozee.pk, and more, but almost to no avail because I didn’t receive a single interview call in the first two months.
 
 I once checked my sent email messages and realized that I had sent more than 200 emails to various recruiters. Applications on different platforms such as Glassdoor, Rozee.pk, and LinkedIn are not included in this. I was sending messages on LinkedIn to everyone, asking for help, and some of them seemed very desperate. I have attached a few for you to read:
-<div align="center">
-    <img src="/images/linkedin-message-1.png" width="350px" />
-    <img src="/images/linkedin-message-2.png" width="350px" />
-</div>
+![LinkedIn-message](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/linkedin-message-1.png)
+![LinkedIn-message](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/linkedin-message-2.png)
 
-<h2 style="text-align: left;">Destiny and job</h2>
+## Destiny and job 
 After considerable effort in improving my CV, learning new things, and enhancing my communication skills, I finally got an interview call and subsequently an offer letter from the Pakistan Air Force as a graduate software engineer. The offer letter was a huge deal because, first, I got a job and I desperately needed it; secondly, it was in Islamabad; and thirdly, it was for the Pakistan Air Force. If you come from Pakistan, you know how big of a flex it is to work for our beloved armed forces. (I didn’t think like that)
 
 The salary, however, was 35k/month, which is hardly enough to make ends meet while living in Islamabad and supporting my family back home. Still, I was happy because at least I had a job in the city I wanted, surrounded by people I loved. The joining date was months away because the background check and bureaucratic process were lengthy, so I kept applying for new positions. This led to an interview call from a startup in Lahore. After a few initial interviews, they invited me for an in-person interview in Lahore. I never wanted to change cities and work in Lahore, but I’m not sure why I still paid 2000 PKR and traveled 5 hours one way for that one interview with that company.
