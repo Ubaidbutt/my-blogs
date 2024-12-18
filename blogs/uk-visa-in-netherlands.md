@@ -20,7 +20,7 @@ This complete the first step in the two step process I mentioned at the start.
 After you have submitted the application, you need to connect with a third-party service provider like TLS to provide your biometrics for the visa. In the last step of the previous process, there will be a button to go to the TLS website directly from the portal.
 
 (Provide documents and biometrics will take you to the TLS website)
-![](/images/uk-visa-checklist-tls-link.png)
+![](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/uk-visa-checklist-tls-link.png)
 
 On the TLS website, you need to choose an appointment time to provide your documents and biometrics in a city close to you.
 
@@ -30,7 +30,7 @@ P.S. Please note that the user interface of the TLS website is terrible, so you 
 Spend some time on the portal to find and book an available slot on a given date and time. The regular self-service slots are limited and often booked in advance by others, so you won’t find many for the current week or next. You will likely have to find one a few weeks out, but if you find one earlier, book it according to your availability.
 
 Once you have booked your appointment, you will see an overview like the following:
-![](/images/tls-overview.png)
+![](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/images/tls-overview.png)
 If you chose a self-service, there will be an extra option called "upload" after the "track" option. I chose self-service hence you don't see that for my application.
 
 ### Upload your scanned documents

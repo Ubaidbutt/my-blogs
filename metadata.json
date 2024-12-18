@@ -102,5 +102,13 @@
         "tags": ["personal", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/beware-of-work-visa-scams.md",
         "created_date": "2024-07-17"
+    },
+    {
+        "id": "14",
+        "name": "Obtaining a UK Tourist Visa from the Netherlands as a Non-EU Resident",
+        "url_title": "uk-visa-in-netherlands",
+        "tags": ["generic", "experience"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/uk-visa-in-netherlands.md",
+        "created_date": "2024-06-27"
     }
 ]
