@@ -5,7 +5,7 @@
         "url_title": "the-purpose-of-the-blog",
         "tags": ["generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/the-purpose-of-the-blog.md",
-        "created_date": "04-05-2024"
+        "created_date": "05-04-2024"
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "url_title": "what-makes-great-software-engineer",
         "tags": ["technology", "career"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/great-software-engineers.md",
-        "created_date": "08-05-2024"
+        "created_date": "05-08-2024"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "url_title": "coping-with-failures",
         "tags": ["personal", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/how--i-cope-with-failures.md",
-        "created_date": "15-05-2024"
+        "created_date": "05-15-2024"
     },
     {
         "id": "5",
@@ -37,7 +37,7 @@
         "url_title": "understanding-establishment-in-pakistan",
         "tags": ["politics", "pakistan"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/what-is-establishment-in-pakistan.md",
-        "created_date": "28-05-2024"
+        "created_date": "05-28-2024"
     },
     {
         "id": "5",
@@ -45,6 +45,6 @@
         "url_title": "understanding-islam",
         "tags": ["politics", "pakistan"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/understanding-islam.md",
-        "created_date": "28-05-2024"
+        "created_date": "06-02-2024"
     }
 ]
