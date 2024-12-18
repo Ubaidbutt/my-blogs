@@ -1,4 +1,4 @@
-For the past few weeks, my interest in Islam has been growing a lot, thanks to Ghamidi Sahab's videos on YouTube. I always heard of him as the liberal Molvi who finds ways in Islam for liberal people to continue their liberal ways of life. 😃 
+For the past few weeks, my interest in Islam has been growing a lot, thanks to Ghamidi Sahab's videos on YouTube. I always heard of him as the liberal Molvi who finds ways in Islam for liberal people to continue their liberal ways of life. 
 
 When I started listening to him, I began to admire his style of communication, the way he looks at religion and Islam, and especially how he contextualizes Islam instead of blindly following it without understanding. I watched his videos on a variety of topics, mainly around pardah, marriage as an institution, roles and responsibilities of husbands and wives, the existence of God, and more. After watching his videos, I became very interested in knowing the truth about Islam because the Islam he portrays is very different from what I and most of us are used to while living in Pakistan. I had this desire in me to figure out the "real" Islam.
 
