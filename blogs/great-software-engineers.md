@@ -19,6 +19,6 @@ Great software engineers are also great people, and you can see that when you wo
 I would like to mention two people I have worked with who have truly inspired me with their skills:
 
 - Mahdi Pourziaei from Fashion Cloud: He was hands down the most talented engineer I have worked with so far in my career.
-- Fahad Heylaal from DAZN: Although I didn’t directly work with him in the team, he was the architect for our team and possesses the best communication skills I have seen from an engineer.
+- Fahad Heylaal from DAZN: Although I didn’t directly work with him in the team, he was the principal engineer for our team and possesses the best communication skills I have seen from an engineer.
 
 Both of them may not know this, but if you guys are reading this, thank you for inspiring me.
