@@ -8,4 +8,6 @@ I spent the first 17 years of my life studying in school and college in the city
 
 The last three years here have been a rollercoaster ride both personally and professionally. I have changed jobs, made new friends, changed houses, and traveled to so many countries. Every experience has been a learning opportunity to grow and become a better person. This blog is my little corner of the internet where I share my thoughts on topics that inspire me, including career, software engineering, politics, social issues, travel, and even religion.
 
+You can read more about the purpose of this blog in this writeup [here](https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/the-purpose-of-the-blog.md)
+
 If you’d like to connect, ask a question, or share advice, feel free to email me or reach out via social media. Thanks for stopping by, and I wish you all the best!
