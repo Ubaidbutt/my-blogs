@@ -77,7 +77,7 @@ It’s natural to have opinions on the historical events of Islamic history, suc
 
 What makes this conflict so dangerous is the tendency of people to take extreme sides based on their political or sectarian views. Some from the Sunni sect label Shia as Kafir (non-Muslims), while some Shia express extreme disrespect, even to the point of abusing figures like the first three Caliphs and Hazrat Ayesha. While this may not render them Kafir, it undoubtedly fuels hatred and division, especially since these individuals are deeply respected in the Sunni community.
 
-## My personal perspective 
+## My perspective 
 You’ve read this long blog all the way to the end, so I believe you deserve my honest personal take on this matter. Below is my unfiltered view on the Shia-Sunni conflict, based on my limited understanding:
 
 - I strongly believe that there is absolutely no conclusive evidence to prove that the Prophet explicitly wanted Hazrat Ali to succeed him. Shia often cite various Ahadees and narrations, such as those from Ghadir Khumm, to support the idea that Hazrat Ali should have been the successor, but none of these provide definitive proof of such a claim. The Prophet left this world without naming a successor, and for Shia to assert otherwise or attempt to convince themselves or others of this is simply incorrect.
