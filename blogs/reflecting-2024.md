@@ -37,10 +37,10 @@ Having lived in Pakistan for 24 years, where international travel was a luxury f
 
 ![Image 1 Alt Text](../images/ibt-1.jpeg) ![Image 2 Alt Text](../images/ibt-2.jpeg) 
 
-- Berlin: I visited Berlin again in October with some friends for a tech conference. The conference itself was average, but exploring Berlin with my friends was definitely a highlight.
+- **Berlin**: I visited Berlin again in October with some friends for a tech conference. The conference itself was average, but exploring Berlin with my friends was definitely a highlight.
 
 ![Image 1 Alt Text](../images/berlin-2.jpeg)
 
-- Cologne: The last trip of the year was in December to Cologne, where I visited the magnificent cologne cathedral and explored the famous Christmas markets with some friends.
+- **Cologne**: The last trip of the year was in December to Cologne, where I visited the magnificent cologne cathedral and explored the famous Christmas markets with some friends.
 
 ![Image 1 Alt Text](../images/cologne-1.jpeg) ![Image 2 Alt Text](../images/cologne-2.jpeg) 
