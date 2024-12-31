@@ -47,8 +47,7 @@
         "url_title": "marriage-and-twitter-rants",
         "tags": ["social", "generic"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/marriage-and-twitter-rants.md",
-        "created_date": "2024-06-15",
-        "special": true
+        "created_date": "2024-06-15"
     },
     {
         "id": "8",
@@ -115,6 +114,15 @@
         "tags": ["personal", "experience"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/professional-journey-01.md",
         "created_date": "2024-04-12",
+        "special": true
+    },
+    {
+        "id": "16",
+        "name": "Reflecting 2024",
+        "url_title": "reflecting-2024",
+        "tags": ["personal", "experience"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/reflecting-2024.md",
+        "created_date": "2024-12-31",
         "special": true
     }
 ]
