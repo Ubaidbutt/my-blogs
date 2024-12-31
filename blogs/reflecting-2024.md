@@ -23,3 +23,19 @@ Having lived in Pakistan for 24 years, where international travel was a luxury f
 
 - **Cologne**: The last trip of the year was in December to Cologne, where I visited the magnificent cologne cathedral and explored the famous Christmas markets with some friends.
 
+## Professional
+- The most important professional highlight for me was securing a permanent contract. In 2023, I was forced to change my third job in the Netherlands, and the current position came with a temporary one-year contract, which is always a bit risky when you are an expat. One of my goals this year was to extend the contract and ideally secure a permanent position, which I successfully achieved back in May.
+- I finally started my AWS certifications, something I had been putting off for quite some time. I began with the basic Cloud Practitioner certification, and it has served as a much-needed confidence booster. This motivates me to clear more developer certifications in the coming year.
+
+## Personal
+- First and foremost, I finally passed my driving theory exam this year after six previous attempts 😂. (And I've already failed the first practical driving test 😭)
+- I have been very consistent with going to the gym this year, still not as much I would have liked but it has improved significantly from the previous years which is a good thing
+- I also attended two concerts this year, one by Atif Aslam (a famous Pakistani singer) and another by Diljit Dosanjh (a renowned Indian singer). It was a fantastic experience.
+
+## Learnings from 2024
+- One thing I've started noticing about traveling is that one shouldn't travel for the sake of traveling or simply to check places off a list. Many of us travel primarily to visit a city, see all the famous landmarks, and take pictures to post on Instagram and other social media platforms. However, this approach can start to feel shallow after a while. This type of travel might be fulfilling initially, especially when you haven't explored many countries. But after visiting several places, you might start to recognize a pattern. The essence of travel should go beyond mere sightseeing. I believe it's crucial to understand the underlying 'why' behind your travel motivation.
+- Another hard lesson this year has taught me is that one cannot fight against life's inevitable course. Some things will happen beyond our control, and the most effective approach is to accept them and move on.
+- Another important lesson has been to prioritize kindness and long-term interests over immediate short-term gains. Sometimes, we can become so self-focused that we fail to recognize the impact our actions have on others. It's crucial to cultivate empathy, to try to see things from others' perspectives, and to ensure that while pursuing our own goals, we are not causing harm or hurting others
+
+## Conclusion
+A change in year really is nothing more than a moment to pause and realize the pace at which time passes, take a moment for self-reflection, realign our priorities, appreciate the good things that happened, and learn from the mistakes made in the last year. If you are reading this, I hope you achieve everything you have planned and more in 2025.
