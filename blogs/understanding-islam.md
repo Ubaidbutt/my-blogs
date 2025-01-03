@@ -4,7 +4,7 @@ I can't point to any one thing that caused this change. I feel like I'm a typica
 
 But once I had more freedom and could make my own choices, I didn't feel the need to continue because I never truly understood the reasons behind the practices. It was more like a routine I followed because everyone else did.
 
-t has been 10 years since I started university, almost 6 years into my professional life and 3 years after moving to the Netherlands. My distance from religion has only increased during this time. Life gets so busy that you don't spend too much time thinking about spirituality and religion, especially in your early 20s with big dreams and responsibilities.
+It has been 10 years since I started university, almost 6 years into my professional life and 3 years after moving to the Netherlands. My distance from religion has only increased during this time. Life gets so busy that you don't spend too much time thinking about spirituality and religion, especially in your early 20s with big dreams and responsibilities.
 
 However, as you move along in life, you do think about these things. For me, it was more about educating myself on the topic because it's a very debatable discussion when you're with friends, especially when you have international friends who ask you questions about your religion.
 
