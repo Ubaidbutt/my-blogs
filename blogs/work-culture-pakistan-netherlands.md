@@ -16,6 +16,10 @@ I have worked for three years so far in the Netherlands, in three different comp
 
 People in the Netherlands don’t easily accept working late hours, so even if you offer them extra money, they will not agree to work on the weekend because they value their personal time greatly. Companies are obligated to pay employees overtime if they want them to work late hours or on the weekend, and the rate for working on the weekend is almost 1.5 to 2.0 times the normal rate for employees.
 
+## Communication pattern
+I'm not sure how to phrase this correctly, but communication in Pakistan is often very indirect, with messages subtly implied. In contrast, the Dutch are renowned for their direct and straightforward communication style.
+
+In Pakistan, if my manager wanted to convey that I needed to improve, I would generally infer this from his behavior and the tone of his communication. In the Netherlands, however, your manager would likely sit down with you and directly address your performance, explicitly stating that you need to improve.
 
 ## Conclusive notes:
 If you come from a country like Pakistan or India, the work culture here will be much better because you are accustomed to a very high-stress, employer-oriented culture with little to no regard for employee well-being. The Netherlands is completely different, where employee rights and their well-being are paramount, and government laws ensure that.
