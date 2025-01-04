@@ -21,6 +21,11 @@ I'm not sure how to phrase this correctly, but communication in Pakistan is ofte
 
 In Pakistan, if my manager wanted to convey that I needed to improve, I would generally infer this from his behavior and the tone of his communication. In the Netherlands, however, your manager would likely sit down with you and directly address your performance, explicitly stating that you need to improve.
 
+## Diversity
+When I was working in Pakistan, all of my colleagues were Pakistani. There wasn't even a single person from another nationality in my office. We did have an offshore office in the US, where we had some colleagues, but communication with them was very minimal. The only time I spoke in English was when communicating with those colleagues or our clients in the US.
+
+In the Netherlands, the situation is completely different. Every company I have worked for has had employees from numerous nationalities around the world. In fact, at one company I worked for, there were over 300 employees, and almost 80% of them were non-Dutch and expats. I have worked with people from Turkey, Iran, Brazil, India, the UK, Spain, Germany, Argentina, and many other countries.
+
 ## Conclusive notes:
 If you come from a country like Pakistan or India, the work culture here will be much better because you are accustomed to a very high-stress, employer-oriented culture with little to no regard for employee well-being. The Netherlands is completely different, where employee rights and their well-being are paramount, and government laws ensure that.
 
