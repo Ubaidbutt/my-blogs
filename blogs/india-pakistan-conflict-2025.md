@@ -1,5 +1,21 @@
-India and Pakistan are on a verge of another conflict after a recent attack by the Indian military inside Pakistani territory, which they claim was a precise attack on terrorist camps. According to sources, multiple cities were targeted, including Bahawalpur, Muzaffarabad, Sialkot, Muridke, and a few more. At the moment of writing, at least 26 people are confirmed dead, including a child, and at least 50 are injured.
+# Introduction
+If you are from South Asia or have even a remote interest in global geopolitics, you have likely heard about the recent four-day clashes between India and Pakistan, during which both countries exchanged missile and drone attacks.
 
-The Indian attack on Pakistani cities occurred after the terrorist attack on April 22nd, which targeted civilian tourists in Pahalgam, the Indian-controlled part of Kashmir, resulting in the deaths of 26 people, mostly Hindus. Immediately following the attack, the Indian state and media began blaming Pakistan, accusing them of funding the terrorists and vowing revenge. India initiated its response by severing diplomatic ties, which were already at an all-time low. They also canceled visas for all Pakistanis, including those with medical emergencies, and suspended an international water treaty between India and Pakistan that had been brokered by the World Bank in 1960. Read more about the treaty [here].(https://www.britannica.com/event/Indus-Waters-Treaty) 
+Pakistan and India have a long history that goes back to the partition in 1947 and is especially linked with a region called Kashmir. Both countries currently control a part of the region and claim that the other part is rightfully theirs. The history behind this is long and too complex for me to put in this blog, but I am sure a simple Google or YouTube search would give you plenty of resources to delve deeper into this topic.
 
-Pakistan officially condemned the attacked and after blatant accusations offered an impartial inquiry of the incident to find the details of any involvement of the Pakistani state. As per the independent media, no such inquiry was conducted nor any proofs provided linking Pakistani government with the attacks.
+# Overview 
+This is what happened on a broad level:
+- On April 22nd, a terrorist attack happened in the Indian part of Kashmir, killing 26 civilians, and the Indian state blames Pakistan for the attack.
+Pakistan denies responsibility and condemns the attack, even offering a neutral investigation into the incident to find out if Pakistan was involved.
+- Over the following two weeks, India expels Pakistani diplomats, cancels visas of Pakistanis, and suspends the international water treaty agreement between India and Pakistan, raising tensions between the two countries.
+- On May 7th, India launches an operation in Pakistan, targeting 9 locations they claim are linked with terrorists.
+- These attacks killed at least 35 people, including children, and injured around 70 people.
+- Pakistan claims to have shot down 5 Indian fighter jets during the dogfight that happened after Pakistan defended against this attack and vows to give a response to India for this attack.
+- On May 8th, Indian drones reach major cities of Pakistan, injuring people and inflicting infrastructure damage, while Pakistan shoots down the drones.
+- During this time, both countries are fighting heavily on the Line of Control, inflicting damage on both military and civilian populations living close to the border area.
+- The next day, India launches a missile attack on at least 11 Pakistani airbases, and while some missiles were intercepted, some were able to hit their targets, inflicting infrastructure damage.
+- Pakistan responded by attacking key Indian military installations in parts of India through its air force, claiming to have destroyed infrastructure and missile defense systems.
+- On May 10th, while tensions were at an all-time high for an all-out war, President Trump tweets about a ceasefire agreement between the two countries.
+- Just around this time, one final missile attack from India hits a Pakistani airbase, killing at least 5 air force personnel.
+- As it currently stands, currently the ceasefire is in place, even though there have been reports of some problems around the Line of Control, with both sides blaming each other for violations.
+
