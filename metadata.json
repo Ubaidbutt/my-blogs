@@ -123,6 +123,15 @@
         "tags": ["personal", "experience"],
         "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/reflecting-2024.md",
         "created_date": "2024-12-31",
+        "special": false
+    },
+    {
+        "id": "17",
+        "name": "India and Pakistan: One more conflict",
+        "url_title": "india-pakistan-one-more-conflict",
+        "tags": ["personal", "politics"],
+        "file_url": "https://raw.githubusercontent.com/ubaidbutt/my-blogs/main/blogs/india-pakistan-conflict-2025.md",
+        "created_date": "2025-05-13",
         "special": true
     }
 ]
