@@ -1,4 +1,3 @@
-# Introduction
 If you are from South Asia or have even a remote interest in global geopolitics, you have likely heard about the recent four-day clashes between India and Pakistan, during which both countries exchanged missile and drone attacks.
 
 Pakistan and India have a long history that goes back to the partition in 1947 and is especially linked with a region called Kashmir. Both countries currently control a part of the region and claim that the other part is rightfully theirs. The history behind this is long and too complex for me to put in this blog, but I am sure a simple Google or YouTube search would give you plenty of resources to delve deeper into this topic.
